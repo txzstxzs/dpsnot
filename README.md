@@ -1,8 +1,8 @@
 code for 'Modeling Missing Not at Random with Diffusion Model for Time Series Imputation'
+follow the guideline in each code to reproduce results
+1 DPS-not  it includes the baselin Diffusion-TS.
 
-1 DPS-not 
-
-2 MAP-not
+2 MAP-not  it is used to reproduce figure 2 and can be used to reproduce results about MAP-not.
 
 3 VI-not
 
