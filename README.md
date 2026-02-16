@@ -2,7 +2,7 @@ code for 'Modeling Missing Not at Random with Diffusion Model for Time Series Im
 
 follow the guideline in each code to reproduce results
 
-1 DPS-not   &emsp; &ensp; It is used to reproduce results about DPS-not. It also includes the baseline Diffusion-TS.
+1 DPS-not   &emsp; It is used to reproduce results about DPS-not. It also includes the baseline Diffusion-TS.
 
 2 MAP-not   &emsp;  It is used to reproduce figure 2 and can be used to reproduce results about MAP-not.
 
