@@ -6,7 +6,7 @@ follow the guideline in each code to reproduce results
 
 2 MAP-not   &emsp;  It is used to reproduce figure 2 and can be used to reproduce results about MAP-not.
 
-3 VI-not     &emsp; &emsp;  It is used to reproduce results about DPS-not.
+3 VI-not     &emsp; &emsp;  It is used to reproduce results about VI-not.
 
 4 baselines  &emsp;   It is used to reproduce results about the baselines CSDI, SAITS, DLinear and TimeMixer.
 
