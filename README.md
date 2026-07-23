@@ -10,6 +10,6 @@ follow the guideline in each code to reproduce results
 
 4 baselines  &emsp;   It is used to reproduce results about the baselines CSDI, SAITS, DLinear and TimeMixer.
 
-5 baselines evaluated on datasets with at least one observed value in the attribute. The completely missing attributes are replaced with original values.
+5 baselines evaluated on datasets with at least one observed value in the features. The completely missing features are replaced with original values.
 
 6 visualization on imputed results by our methods.
